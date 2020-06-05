@@ -1,0 +1,71 @@
+.navbar{
+    background-color: rgba(0, 0, 2, 0.671)  !important;
+   
+}
+.nav.link{
+    color: rgb(233, 233, 233) !important;
+
+}
+.fa-user-circle-o {
+    font-size: 25px !important;
+}
+.fa-shopping-cart{
+    font-size:25px !important ;
+
+}
+.fa-ship{
+    font-size: 40px !important;
+    margin-top: 20px;
+}
+.fa-check{
+    font-size: 40px !important;
+}
+.fa-phone-square{
+    font-size: 40px !important;
+}
+
+.ship{
+    text-align: center;
+}
+.main{
+    justify-content: space-around;
+}
+
+.aq{
+text-align: center;
+
+}
+.ea{
+    text-align: center;
+}
+.so{
+    text-align: center;
+}
+.sw{
+    text-align: center;
+}
+.sq{
+    text-align: center;
+}
+
+.ji{
+justify-content: center;
+}
+.row{
+    margin: auto;
+    width: 100%;
+justify-content: center;  
+}
+
+.header {
+    padding: 60px;
+   text-align: center;
+   background-color: rgba(0, 0, 2, 0.671)  !important;
+    color: white;
+    font-size: 30px;
+  }
+  
+  
+
+
+
